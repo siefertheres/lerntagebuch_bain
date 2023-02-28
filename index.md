@@ -2,6 +2,6 @@
 title: Lerntagebuch
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Lerntagebuch BAIN
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Dieser Blog enthält meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
