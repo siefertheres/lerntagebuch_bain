@@ -37,6 +37,7 @@ Um mit der Software und ihren Funktionen bekannt zu werden, wurden Beispieldaten
 Zum Einstieg gab es die Übung mit den Baisfunktionen der Software. Hier sollten zunächt die Sprachen als Facetten ausgewählt werden. Außerdem sollten bei der Spalte „Authors“ ein Seperator (I) eingefügt werden, sowie doppelte Nennungen geclustert werden und die Zellen mit mehreren Values mit I zusammengeführt werden. Durch das Einfügen der „Text facet“ öffnet sich auf der linken Seite der Filter hierzu und man erkennt zugleich auch die Häufigkeit der Angezeigten Texte, was einen Überblick erleichtert. 
 Die Handhabung der Übung war sehr intuitiv und führte zu keinen Problemen. Durch das Klicken auf das nach unten gedrehte Dreiecke öffnete sich das Menü und von dort aus konnte die Auswahl getroffen werden. 
 ![image](https://user-images.githubusercontent.com/92806411/223205783-034f9363-4600-49df-84ad-0ae5b08cef41.png) 
+
 ##### Folgendes sind die Basisfunktionen: 
 -	Facetten und Filter hinzufügen
 -	Informationen ergänzen
