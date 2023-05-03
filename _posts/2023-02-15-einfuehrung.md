@@ -1,6 +1,6 @@
 ---
 title: "Semesterstart"
-date: 2021-09-20
+date: 2023-02-15
 ---
 
 Im nachfolgenden Blogeintrag werde ich Bezug auf den Einstieg in den Kurs sowie meine bisherigen Erfahrungen und Erwartungen an die Vorlesung teilen.
